@@ -1,13 +1,13 @@
 {
-    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "_comment": "Aikar Paper egg forked from flaxenee12 to add latest support",
     "meta": {
         "version": "PTDL_v1",
         "update_url": null
     },
     "exported_at": "2021-11-25T23:04:46+01:00",
-    "name": "Optimized Paper",
-    "author": "flaxeneel2@gmail.com",
-    "description": "Optimized paper being developed by flaxeneel2. Fork of the original paper egg by parkervcp",
+    "name": "Aikar Paper",
+    "author": "melonoof1@gmail.com",
+    "description": "Optimized paper being developed by MelonOof. Fork of the original paper egg by flaxeneel2",
     "features": [
         "eula"
     ],
